@@ -1,3 +1,20 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.title {
+  text-align: center;
+  color: brown;
+}
+
+.details {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
 .box {
   width: 200px;
   height: 200px;
@@ -11,6 +28,7 @@
   align-items: center;
   width: 618px;
   height: 618px;
+  box-shadow: 3px 3px 5px 6px #ccc;
 }
 
 .mole {
