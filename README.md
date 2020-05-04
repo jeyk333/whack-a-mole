@@ -24,4 +24,5 @@ cd whack-a-mole
 - alert()
 
 ## Game in Action
+![Whack-a-mole](https://casualbox.s3.ap-south-1.amazonaws.com/whack-a-mole.gif)
 
